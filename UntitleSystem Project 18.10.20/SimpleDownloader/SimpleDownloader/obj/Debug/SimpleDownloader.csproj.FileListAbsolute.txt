@@ -1,0 +1,8 @@
+C:\Users\Hosting04\source\repos\SimpleDownloader\SimpleDownloader\bin\Debug\SimpleDownloader.exe
+C:\Users\Hosting04\source\repos\SimpleDownloader\SimpleDownloader\bin\Debug\SimpleDownloader.pdb
+C:\Users\Hosting04\source\repos\SimpleDownloader\SimpleDownloader\obj\Debug\SimpleDownloader.csprojAssemblyReference.cache
+C:\Users\Hosting04\source\repos\SimpleDownloader\SimpleDownloader\obj\Debug\SimpleDownloader.MainForm.resources
+C:\Users\Hosting04\source\repos\SimpleDownloader\SimpleDownloader\obj\Debug\SimpleDownloader.csproj.GenerateResource.cache
+C:\Users\Hosting04\source\repos\SimpleDownloader\SimpleDownloader\obj\Debug\SimpleDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Hosting04\source\repos\SimpleDownloader\SimpleDownloader\obj\Debug\SimpleDownloader.exe
+C:\Users\Hosting04\source\repos\SimpleDownloader\SimpleDownloader\obj\Debug\SimpleDownloader.pdb

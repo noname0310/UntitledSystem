@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\bin\Debug\UntitledSystem2.0.exe.config
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\bin\Debug\UntitledSystem2.0.exe
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\bin\Debug\UntitledSystem2.0.pdb
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\obj\Debug\UntitledSystem2.0.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\obj\Debug\UntitledSystem2._0.Properties.Resources.resources
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\obj\Debug\UntitledSystem2.0.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\obj\Debug\UntitledSystem2.0.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\obj\Debug\UntitledSystem2.0.csproj.CopyComplete
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\obj\Debug\UntitledSystem2.0.exe
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\obj\Debug\UntitledSystem2.0.pdb
+C:\Users\Administrator\Desktop\repos\UntitledSystem2.0\UntitledSystem2.0\obj\Debug\UntitledSystem2._0.UntitledSystemForm.resources
