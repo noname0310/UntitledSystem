@@ -1,0 +1,42 @@
+{
+  "Link": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\UntitleSystem.json",
+  "BatchFileLink": "C:\\Users\\Hosting04\\Desktop\\Server\\Run.bat",
+  "AutoServerReset": true,
+  "AutoServerUpdate": true,
+  "StartOnBackground": true,
+  "ResetFiles": {
+    "1": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\KDRGui",
+    "2": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\PTTracker",
+    "3": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\ServerRewards",
+    "4": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\AutoDoors.json",
+    "5": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\challenge_data.json",
+    "6": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\DynamicCupShare.json",
+    "7": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\EasyCodeLock.json",
+    "8": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\Economics.json",
+    "9": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\Friends.json",
+    "10": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\GUIAnnouncementsPlayerData.json",
+    "11": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\GUIShop.json",
+    "12": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\GUIShopBuyed.json",
+    "13": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\GUIShopSelled.json",
+    "14": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\HangulInput.json",
+    "15": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\NTeleportationAdmin.json",
+    "16": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\NTeleportationHome.json",
+    "17": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\NTeleportationTown.json",
+    "18": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\NTeleportationTPR.json",
+    "19": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\OfflineDoors.json",
+    "20": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\RaidTracker.json",
+    "21": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\restoreupondeath_data.json",
+    "22": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\rustio_clans.json",
+    "23": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\WheresMyCorpse.json",
+    "24": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\ZLevelsCraftDetails.json",
+    "25": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\ZLevelsRemastered.json",
+    "26": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\server\\my_server\\player.blueprints.3.db",
+    "27": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\server\\my_server\\player.deaths.3.db",
+    "28": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\server\\my_server\\proceduralmap.3000.14.170.map",
+    "29": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\server\\my_server\\proceduralmap.3000.14.170.sav",
+    "30": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\server\\my_server\\sv.files.0.db"
+  },
+  "ResetDays": {
+    "1": "2018-10-20"
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\UntitleSystem.exe.config
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\UntitleSystem.exe
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\UntitleSystem.pdb
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\UntitleSystem.Properties.Resources.resources
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\UntitleSystem.exe
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\UntitleSystem.pdb
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\UntitleSystem.MainForm.resources

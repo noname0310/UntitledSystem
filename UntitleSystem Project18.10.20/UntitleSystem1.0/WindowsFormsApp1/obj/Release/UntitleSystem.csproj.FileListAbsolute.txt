@@ -1,0 +1,15 @@
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\UntitleSystem.exe.config
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\UntitleSystem.exe
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\UntitleSystem.pdb
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Newtonsoft.Json.xml
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\UntitleSystem.csprojAssemblyReference.cache
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\UntitleSystem.MainForm.resources
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\UntitleSystem.Properties.Resources.resources
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\UntitleSystem.csproj.GenerateResource.cache
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\UntitleSystem.csproj.CoreCompileInputs.cache
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\UntitleSystem.csproj.CopyComplete
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\UntitleSystem.exe
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\UntitleSystem.pdb
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\ICSharpCode.SharpZipLib.xml

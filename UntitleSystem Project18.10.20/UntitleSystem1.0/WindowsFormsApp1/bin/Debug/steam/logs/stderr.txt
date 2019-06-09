@@ -1,0 +1,2 @@
+Assert( Assertion Failed: Unable to access Steam files due to incompatible path ):c:\buildslave\steam_rel_client_win32\build\src\steamexe\main.cpp:526
+

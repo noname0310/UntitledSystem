@@ -1,0 +1,19 @@
+{
+  "Link": "C:\\Users\\Hosting04\\Desktop\\Server\\rustds\\oxide\\data\\UntitleSystem.json",
+  "BatchFileLink": "C:\\Users\\Hosting04\\Desktop\\Server\\Run.bat",
+  "AutoServerReset": true,
+  "AutoServerUpdate": false,
+  "StartOnBackground": false,
+  "ResetFiles": {
+    "1": "C:\\Users\\Hosting04\\Desktop\\data\\CustomSpawns",
+    "2": "C:\\Users\\Hosting04\\Desktop\\data\\DeathNotes",
+    "3": "C:\\Users\\Hosting04\\Desktop\\data\\EventManager",
+    "4": "C:\\Users\\Hosting04\\Desktop\\data\\GUISkipNight",
+    "5": "C:\\Users\\Hosting04\\Desktop\\data\\Waypoints.json",
+    "6": "C:\\Users\\Hosting04\\Desktop\\data\\WheresMyCorpse.json",
+    "7": "C:\\Users\\Hosting04\\Desktop\\data\\ZLevelsCraftDetails.json",
+    "8": "C:\\Users\\Hosting04\\Desktop\\data\\ZLevelsRemastered.json",
+    "9": "C:\\Users\\Hosting04\\Desktop\\data\\ZoneManager.json"
+  },
+  "ResetDays": {}
+}

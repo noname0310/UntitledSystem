@@ -1,0 +1,643 @@
+
+
+[2018-10-05 15:35:53] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,
+[2018-10-05 15:35:53] AppID 258550 update changed : Running,
+[2018-10-05 15:35:53] AppID 258550 update changed : Running,Preallocating,
+[2018-10-05 15:35:53] AppID 258550 update changed : Running,
+[2018-10-05 15:35:53] AppID 258550 update started : download 0/961712, store 0/0, reuse 0/0, delta 0/0, stage 0/3592704
+[2018-10-05 15:35:53] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,Update Started,
+[2018-10-05 15:35:53] AppID 258550 update changed : Running,Downloading,
+[2018-10-05 15:35:53] AppID 258550 update changed : Running,Downloading,Staging,
+[2018-10-05 15:35:53] Got 18 download sources and 0 caching proxies via "/serverlist/8/20/" from valve44.steamcontent.com
+[2018-10-05 15:35:53] Created download interface of type 'SteamCache' (7) to host cache6-seo-hwng.steamcontent.com (cache6-seo-hwng.steamcontent.com)
+[2018-10-05 15:35:53] Created download interface of type 'CS' (1) to host valve40.steamcontent.com (valve40.steamcontent.com)
+[2018-10-05 15:35:53] Created download interface of type 'CS' (1) to host valve40.steamcontent.com (valve40.steamcontent.com)
+[2018-10-05 15:35:53] Downloading 9 chunks from depot 258551
+[2018-10-05 15:35:54] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache6-seo-hwng.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 15:35:54] HTTP (CS,40) - valve40.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve40.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 15:35:54] HTTP (CS,40) - valve40.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve40.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 15:35:54] AppID 258550 update changed : Running,
+[2018-10-05 15:35:54] AppID 258550 update changed : Running,Verifying,
+[2018-10-05 15:35:54] AppID 258550 update changed : Running,
+[2018-10-05 15:35:54] AppID 258550 update changed : Running,Committing,
+[2018-10-05 15:35:54] AppID 258550 file commit : 28 updated, 0 moved, 0 deleted
+[2018-10-05 15:35:54] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 15:35:54] AppID 258550 finished update, mounted depots (BuildID 3184412) : 258551 (1120197114211239492),258554 (8902438498606839362),
+[2018-10-05 15:35:54] AppID 258550 update changed : Running,
+[2018-10-05 15:35:54] AppID 258550 update changed : None
+[2018-10-05 15:35:54] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 15:35:54] AppID 258550 state changed : Fully Installed,
+[2018-10-05 15:35:54] AppID 258550 scheduler finished : removed from schedule
+[2018-10-05 15:35:54] HTTP (CS,40) - valve40.steamcontent.com (103.66.31.69:80 / 103.66.31.69:80, host: valve40.steamcontent.com): Closing connection
+[2018-10-05 15:35:54] HTTP (CS,40) - valve40.steamcontent.com (103.66.31.69:80 / 103.66.31.69:80, host: valve40.steamcontent.com): Closing connection
+[2018-10-05 15:35:54] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (103.66.31.74:80 / 103.66.31.74:80, host: cache6-seo-hwng.steamcontent.com): Closing connection
+
+
+[2018-10-05 15:37:59] Loaded 0 apps from install folder "C:\Users\Hosting04\Desktop\Server\steam\steamapps\appmanifest_*.acf".
+[2018-10-05 15:38:00] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-05 15:38:02] Start validating appID 258550
+[2018-10-05 15:38:02] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538721482, appDisableSecondsRemaining=0
+[2018-10-05 15:38:02] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 15:38:02] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 15:38:02] AppID 258550 update changed : Running,
+[2018-10-05 15:38:02] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-05 15:38:02] AppID 258550 update changed : Running,
+[2018-10-05 15:38:02] AppID 258550 update changed : Running,Validating,
+[2018-10-05 15:38:02] Validating files (all active,full) ...
+[2018-10-05 15:38:03] Got 100 content servers from directory
+[2018-10-05 15:38:25] File validation finished: 657 files (5616449419 bytes) total, 0 files (0 bytes) mismatched (22602 msec).
+[2018-10-05 15:38:25] AppID 258550 update changed : Running,
+[2018-10-05 15:38:25] AppID 258550 update changed : None
+[2018-10-05 15:38:25] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 15:38:25] AppID 258550 state changed : Fully Installed,
+[2018-10-05 15:38:25] AppID 258550 scheduler finished : removed from schedule
+
+
+[2018-10-05 15:56:41] Loaded 0 apps from install folder "C:\Users\Hosting04\Desktop\Server\steam\steamapps\appmanifest_*.acf".
+[2018-10-05 15:56:47] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-05 15:56:51] Start validating appID 258550
+[2018-10-05 15:56:51] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538722611, appDisableSecondsRemaining=0
+[2018-10-05 15:56:51] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 15:56:51] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 15:56:51] AppID 258550 update changed : Running,
+[2018-10-05 15:56:51] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-05 15:56:51] AppID 258550 update changed : Running,
+[2018-10-05 15:56:51] AppID 258550 update changed : Running,Validating,
+[2018-10-05 15:56:51] Validating files (all active,full) ...
+[2018-10-05 15:57:20] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Assembly-CSharp.dll"
+[2018-10-05 15:57:20] Validation: SHA mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Console.dll"
+[2018-10-05 15:57:20] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Rcon.dll"
+[2018-10-05 15:57:20] Validation: SHA mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\NewAssembly.dll"
+[2018-10-05 15:57:20] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\System.Configuration.Install.dll"
+[2018-10-05 15:57:20] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\System.Data.dll"
+[2018-10-05 15:57:21] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\System.Drawing.dll"
+[2018-10-05 15:57:21] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\System.Runtime.Serialization.dll"
+[2018-10-05 15:57:21] Validation: SHA mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\System.Transactions.dll"
+[2018-10-05 15:57:21] File validation finished: 657 files (5616449419 bytes) total, 9 files (5967872 bytes) mismatched (30514 msec).
+[2018-10-05 15:57:21] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,
+[2018-10-05 15:57:21] AppID 258550 update changed : Running,
+[2018-10-05 15:57:21] AppID 258550 update changed : Running,Preallocating,
+[2018-10-05 15:57:21] AppID 258550 update changed : Running,
+[2018-10-05 15:57:21] AppID 258550 update started : download 0/1601968, store 0/0, reuse 0/0, delta 0/0, stage 0/5967872
+[2018-10-05 15:57:21] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,Update Started,
+[2018-10-05 15:57:21] AppID 258550 update changed : Running,Downloading,
+[2018-10-05 15:57:21] AppID 258550 update changed : Running,Downloading,Staging,
+[2018-10-05 15:57:21] Got 19 download sources and 0 caching proxies via "/serverlist/8/20/" from valve44.steamcontent.com
+[2018-10-05 15:57:21] Created download interface of type 'SteamCache' (7) to host cache6-seo-hwng.steamcontent.com (cache6-seo-hwng.steamcontent.com)
+[2018-10-05 15:57:21] Created download interface of type 'CS' (1) to host valve39.steamcontent.com (valve39.steamcontent.com)
+[2018-10-05 15:57:21] Created download interface of type 'CS' (1) to host valve39.steamcontent.com (valve39.steamcontent.com)
+[2018-10-05 15:57:21] Downloading 12 chunks from depot 258551
+[2018-10-05 15:57:22] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache6-seo-hwng.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 15:57:22] HTTP (CS,39) - valve39.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve39.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 15:57:22] HTTP (CS,39) - valve39.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve39.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 15:57:24] AppID 258550 update changed : Running,
+[2018-10-05 15:57:24] AppID 258550 update changed : Running,Verifying,
+[2018-10-05 15:57:24] AppID 258550 update changed : Running,
+[2018-10-05 15:57:24] AppID 258550 update changed : Running,Committing,
+[2018-10-05 15:57:24] AppID 258550 file commit : 29 updated, 0 moved, 0 deleted
+[2018-10-05 15:57:24] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 15:57:24] AppID 258550 finished update, mounted depots (BuildID 3184412) : 258551 (1120197114211239492),258554 (8902438498606839362),
+[2018-10-05 15:57:24] AppID 258550 update changed : Running,
+[2018-10-05 15:57:24] AppID 258550 update changed : None
+[2018-10-05 15:57:24] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 15:57:24] AppID 258550 state changed : Fully Installed,
+[2018-10-05 15:57:24] AppID 258550 scheduler finished : removed from schedule
+[2018-10-05 15:57:24] HTTP (CS,39) - valve39.steamcontent.com (103.66.31.68:80 / 103.66.31.68:80, host: valve39.steamcontent.com): Closing connection
+[2018-10-05 15:57:24] HTTP (CS,39) - valve39.steamcontent.com (103.66.31.68:80 / 103.66.31.68:80, host: valve39.steamcontent.com): Closing connection
+[2018-10-05 15:57:24] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (103.66.31.74:80 / 103.66.31.74:80, host: cache6-seo-hwng.steamcontent.com): Closing connection
+
+
+[2018-10-05 16:20:55] Loaded 0 apps from install folder "C:\Users\Hosting04\Desktop\Server\steam\steamapps\appmanifest_*.acf".
+[2018-10-05 16:21:00] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-05 16:21:01] Start validating appID 258550
+[2018-10-05 16:21:01] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538724061, appDisableSecondsRemaining=0
+[2018-10-05 16:21:01] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 16:21:01] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 16:21:01] AppID 258550 update changed : Running,
+[2018-10-05 16:21:01] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-05 16:21:01] AppID 258550 update changed : Running,
+[2018-10-05 16:21:01] AppID 258550 update changed : Running,Validating,
+[2018-10-05 16:21:01] Validating files (all active,full) ...
+[2018-10-05 16:21:28] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Assembly-CSharp.dll"
+[2018-10-05 16:21:29] File validation finished: 657 files (5616449419 bytes) total, 1 files (2375168 bytes) mismatched (27215 msec).
+[2018-10-05 16:21:29] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,
+[2018-10-05 16:21:29] AppID 258550 update changed : Running,
+[2018-10-05 16:21:29] AppID 258550 update changed : Running,Preallocating,
+[2018-10-05 16:21:29] AppID 258550 update changed : Running,
+[2018-10-05 16:21:29] AppID 258550 update started : download 0/640256, store 0/0, reuse 0/0, delta 0/0, stage 0/2375168
+[2018-10-05 16:21:29] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,Update Started,
+[2018-10-05 16:21:29] AppID 258550 update changed : Running,Downloading,
+[2018-10-05 16:21:29] AppID 258550 update changed : Running,Downloading,Staging,
+[2018-10-05 16:21:29] Got 18 download sources and 0 caching proxies via "/serverlist/8/20/" from valve44.steamcontent.com
+[2018-10-05 16:21:29] Created download interface of type 'SteamCache' (7) to host cache6-seo-hwng.steamcontent.com (cache6-seo-hwng.steamcontent.com)
+[2018-10-05 16:21:29] Created download interface of type 'CS' (1) to host valve39.steamcontent.com (valve39.steamcontent.com)
+[2018-10-05 16:21:29] Created download interface of type 'CS' (1) to host valve39.steamcontent.com (valve39.steamcontent.com)
+[2018-10-05 16:21:29] Downloading 3 chunks from depot 258551
+[2018-10-05 16:21:29] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache6-seo-hwng.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 16:21:29] HTTP (CS,39) - valve39.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve39.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 16:21:29] HTTP (CS,39) - valve39.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve39.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 16:21:30] AppID 258550 update changed : Running,
+[2018-10-05 16:21:30] AppID 258550 update changed : Running,Verifying,
+[2018-10-05 16:21:30] AppID 258550 update changed : Running,
+[2018-10-05 16:21:30] AppID 258550 update changed : Running,Committing,
+[2018-10-05 16:21:30] AppID 258550 file commit : 21 updated, 0 moved, 0 deleted
+[2018-10-05 16:21:30] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 16:21:30] AppID 258550 finished update, mounted depots (BuildID 3184412) : 258551 (1120197114211239492),258554 (8902438498606839362),
+[2018-10-05 16:21:30] AppID 258550 update changed : Running,
+[2018-10-05 16:21:30] AppID 258550 update changed : None
+[2018-10-05 16:21:30] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 16:21:30] AppID 258550 state changed : Fully Installed,
+[2018-10-05 16:21:30] AppID 258550 scheduler finished : removed from schedule
+[2018-10-05 16:21:30] HTTP (CS,39) - valve39.steamcontent.com (103.66.31.68:80 / 103.66.31.68:80, host: valve39.steamcontent.com): Closing connection
+[2018-10-05 16:21:30] HTTP (CS,39) - valve39.steamcontent.com (103.66.31.68:80 / 103.66.31.68:80, host: valve39.steamcontent.com): Closing connection
+[2018-10-05 16:21:30] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (103.66.31.74:80 / 103.66.31.74:80, host: cache6-seo-hwng.steamcontent.com): Closing connection
+
+
+[2018-10-05 16:27:01] Loaded 0 apps from install folder "C:\Users\Hosting04\Desktop\Server\steam\steamapps\appmanifest_*.acf".
+[2018-10-05 16:27:03] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-05 16:27:04] Start validating appID 258550
+[2018-10-05 16:27:04] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538724424, appDisableSecondsRemaining=0
+[2018-10-05 16:27:04] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 16:27:04] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 16:27:04] AppID 258550 update changed : Running,
+[2018-10-05 16:27:04] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-05 16:27:04] AppID 258550 update changed : Running,
+[2018-10-05 16:27:04] AppID 258550 update changed : Running,Validating,
+[2018-10-05 16:27:04] Validating files (all active,full) ...
+[2018-10-05 16:27:05] Got 100 content servers from directory
+[2018-10-05 16:27:34] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Assembly-CSharp.dll"
+[2018-10-05 16:27:34] Validation: SHA mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Console.dll"
+[2018-10-05 16:27:34] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Rcon.dll"
+[2018-10-05 16:27:35] File validation finished: 657 files (5616449419 bytes) total, 3 files (2399232 bytes) mismatched (31300 msec).
+[2018-10-05 16:27:35] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,
+[2018-10-05 16:27:35] AppID 258550 update changed : Running,
+[2018-10-05 16:27:35] AppID 258550 update changed : Running,Preallocating,
+[2018-10-05 16:27:35] AppID 258550 update changed : Running,
+[2018-10-05 16:27:35] AppID 258550 update started : download 0/649888, store 0/0, reuse 0/0, delta 0/0, stage 0/2399232
+[2018-10-05 16:27:35] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,Update Started,
+[2018-10-05 16:27:35] AppID 258550 update changed : Running,Downloading,
+[2018-10-05 16:27:35] AppID 258550 update changed : Running,Downloading,Staging,
+[2018-10-05 16:27:36] Got 19 download sources and 0 caching proxies via "/serverlist/8/20/" from valve44.steamcontent.com
+[2018-10-05 16:27:36] Created download interface of type 'SteamCache' (7) to host cache6-seo-hwng.steamcontent.com (cache6-seo-hwng.steamcontent.com)
+[2018-10-05 16:27:36] Created download interface of type 'CS' (1) to host valve41.steamcontent.com (valve41.steamcontent.com)
+[2018-10-05 16:27:36] Created download interface of type 'CS' (1) to host valve41.steamcontent.com (valve41.steamcontent.com)
+[2018-10-05 16:27:36] Downloading 5 chunks from depot 258551
+[2018-10-05 16:27:36] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache6-seo-hwng.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 16:27:36] HTTP (CS,41) - valve41.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve41.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 16:27:36] HTTP (CS,41) - valve41.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve41.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 16:27:36] AppID 258550 update changed : Running,
+[2018-10-05 16:27:36] AppID 258550 update changed : Running,Verifying,
+[2018-10-05 16:27:36] AppID 258550 update changed : Running,
+[2018-10-05 16:27:36] AppID 258550 update changed : Running,Committing,
+[2018-10-05 16:27:36] AppID 258550 file commit : 23 updated, 0 moved, 0 deleted
+[2018-10-05 16:27:36] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 16:27:36] AppID 258550 finished update, mounted depots (BuildID 3184412) : 258551 (1120197114211239492),258554 (8902438498606839362),
+[2018-10-05 16:27:36] AppID 258550 update changed : Running,
+[2018-10-05 16:27:36] AppID 258550 update changed : None
+[2018-10-05 16:27:36] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 16:27:36] AppID 258550 state changed : Fully Installed,
+[2018-10-05 16:27:36] AppID 258550 scheduler finished : removed from schedule
+[2018-10-05 16:27:36] HTTP (CS,41) - valve41.steamcontent.com (103.66.31.70:80 / 103.66.31.70:80, host: valve41.steamcontent.com): Closing connection
+[2018-10-05 16:27:36] HTTP (CS,41) - valve41.steamcontent.com (103.66.31.70:80 / 103.66.31.70:80, host: valve41.steamcontent.com): Closing connection
+[2018-10-05 16:27:36] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (103.66.31.74:80 / 103.66.31.74:80, host: cache6-seo-hwng.steamcontent.com): Closing connection
+
+
+[2018-10-05 17:08:18] Loaded 0 apps from install folder "C:\Users\Hosting04\Desktop\Server\steam\steamapps\appmanifest_*.acf".
+[2018-10-05 17:08:19] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-05 17:08:21] Start validating appID 258550
+[2018-10-05 17:08:21] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538726901, appDisableSecondsRemaining=0
+[2018-10-05 17:08:21] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 17:08:21] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 17:08:21] AppID 258550 update changed : Running,
+[2018-10-05 17:08:21] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-05 17:08:21] AppID 258550 update changed : Running,
+[2018-10-05 17:08:21] AppID 258550 update changed : Running,Validating,
+[2018-10-05 17:08:21] Validating files (all active,full) ...
+[2018-10-05 17:08:22] Got 100 content servers from directory
+[2018-10-05 17:08:55] File validation finished: 657 files (5616449419 bytes) total, 0 files (0 bytes) mismatched (33471 msec).
+[2018-10-05 17:08:55] AppID 258550 update changed : Running,
+[2018-10-05 17:08:55] AppID 258550 update changed : None
+[2018-10-05 17:08:55] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 17:08:55] AppID 258550 state changed : Fully Installed,
+[2018-10-05 17:08:55] AppID 258550 scheduler finished : removed from schedule
+
+
+[2018-10-05 17:09:21] File validation finished: 657 files (5616449419 bytes) total, 0 files (0 bytes) mismatched (27240 msec).
+[2018-10-05 17:09:21] AppID 258550 update changed : Running,
+[2018-10-05 17:09:21] AppID 258550 update changed : None
+[2018-10-05 17:09:21] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 17:09:21] AppID 258550 state changed : Fully Installed,
+[2018-10-05 17:09:21] AppID 258550 scheduler finished : removed from schedule
+
+
+[2018-10-05 17:09:48] Loaded 0 apps from install folder "C:\Users\Hosting04\Desktop\Server\steam\steamapps\appmanifest_*.acf".
+[2018-10-05 17:09:52] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-05 17:09:53] Start validating appID 258550
+[2018-10-05 17:09:53] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538726993, appDisableSecondsRemaining=0
+[2018-10-05 17:09:53] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 17:09:53] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 17:09:53] AppID 258550 update changed : Running,
+[2018-10-05 17:09:53] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-05 17:09:53] AppID 258550 update changed : Running,
+[2018-10-05 17:09:53] AppID 258550 update changed : Running,Validating,
+[2018-10-05 17:09:53] Validating files (all active,full) ...
+[2018-10-05 17:10:24] File validation finished: 657 files (5616449419 bytes) total, 0 files (0 bytes) mismatched (31474 msec).
+[2018-10-05 17:10:24] AppID 258550 update changed : Running,
+[2018-10-05 17:10:24] AppID 258550 update changed : None
+[2018-10-05 17:10:24] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 17:10:24] AppID 258550 state changed : Fully Installed,
+[2018-10-05 17:10:24] AppID 258550 scheduler finished : removed from schedule
+
+
+[2018-10-05 17:11:36] Loaded 0 apps from install folder "C:\Users\Hosting04\Desktop\Server\steam\steamapps\appmanifest_*.acf".
+[2018-10-05 17:11:40] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-05 17:11:41] Start validating appID 258550
+[2018-10-05 17:11:41] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538727101, appDisableSecondsRemaining=0
+[2018-10-05 17:11:41] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 17:11:41] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 17:11:41] AppID 258550 update changed : Running,
+[2018-10-05 17:11:41] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-05 17:11:41] AppID 258550 update changed : Running,
+[2018-10-05 17:11:41] AppID 258550 update changed : Running,Validating,
+[2018-10-05 17:11:41] Validating files (all active,full) ...
+[2018-10-05 17:12:12] File validation finished: 657 files (5616449419 bytes) total, 0 files (0 bytes) mismatched (30854 msec).
+[2018-10-05 17:12:12] AppID 258550 update changed : Running,
+[2018-10-05 17:12:12] AppID 258550 update changed : None
+[2018-10-05 17:12:12] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 17:12:12] AppID 258550 state changed : Fully Installed,
+[2018-10-05 17:12:12] AppID 258550 scheduler finished : removed from schedule
+
+
+[2018-10-05 17:13:50] Loaded 0 apps from install folder "C:\Users\Hosting04\Desktop\Server\steam\steamapps\appmanifest_*.acf".
+[2018-10-05 17:13:52] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-05 17:13:53] Start validating appID 258550
+[2018-10-05 17:13:53] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538727233, appDisableSecondsRemaining=0
+[2018-10-05 17:13:53] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 17:13:53] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 17:13:53] AppID 258550 update changed : Running,
+[2018-10-05 17:13:53] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-05 17:13:53] AppID 258550 update changed : Running,
+[2018-10-05 17:13:53] AppID 258550 update changed : Running,Validating,
+[2018-10-05 17:13:53] Validating files (all active,full) ...
+[2018-10-05 17:13:54] Got 100 content servers from directory
+[2018-10-05 17:14:24] File validation finished: 657 files (5616449419 bytes) total, 0 files (0 bytes) mismatched (30768 msec).
+[2018-10-05 17:14:24] AppID 258550 update changed : Running,
+[2018-10-05 17:14:24] AppID 258550 update changed : None
+[2018-10-05 17:14:24] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 17:14:24] AppID 258550 state changed : Fully Installed,
+[2018-10-05 17:14:24] AppID 258550 scheduler finished : removed from schedule
+
+
+[2018-10-05 22:26:09] Loaded 0 apps from install folder "C:\Users\Hosting04\Desktop\Server\steam\steamapps\appmanifest_*.acf".
+[2018-10-05 22:26:11] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-05 22:26:12] Start validating appID 258550
+[2018-10-05 22:26:12] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538745972, appDisableSecondsRemaining=0
+[2018-10-05 22:26:12] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 22:26:12] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 22:26:12] AppID 258550 update changed : Running,
+[2018-10-05 22:26:12] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-05 22:26:12] AppID 258550 update changed : Running,
+[2018-10-05 22:26:12] AppID 258550 update changed : Running,Validating,
+[2018-10-05 22:26:12] Validating files (all active,full) ...
+[2018-10-05 22:26:13] Got 100 content servers from directory
+[2018-10-05 22:26:41] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Assembly-CSharp.dll"
+[2018-10-05 22:26:41] Validation: SHA mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Console.dll"
+[2018-10-05 22:26:41] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Rcon.dll"
+[2018-10-05 22:26:42] File validation finished: 657 files (5616449419 bytes) total, 3 files (2399232 bytes) mismatched (29725 msec).
+[2018-10-05 22:26:42] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,
+[2018-10-05 22:26:42] AppID 258550 update changed : Running,
+[2018-10-05 22:26:42] AppID 258550 update changed : Running,Preallocating,
+[2018-10-05 22:26:42] AppID 258550 update changed : Running,
+[2018-10-05 22:26:42] AppID 258550 update started : download 0/649888, store 0/0, reuse 0/0, delta 0/0, stage 0/2399232
+[2018-10-05 22:26:42] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,Update Started,
+[2018-10-05 22:26:42] AppID 258550 update changed : Running,Downloading,
+[2018-10-05 22:26:42] AppID 258550 update changed : Running,Downloading,Staging,
+[2018-10-05 22:26:42] Got 15 download sources and 0 caching proxies via "/serverlist/8/20/" from valve44.steamcontent.com
+[2018-10-05 22:26:42] Created download interface of type 'CDN' (2) to host steam.apac.qtlglb.com (steam.apac.qtlglb.com)
+[2018-10-05 22:26:42] Created download interface of type 'CDN' (2) to host steam.apac.qtlglb.com (steam.apac.qtlglb.com)
+[2018-10-05 22:26:42] Created download interface of type 'SteamCache' (7) to host cache6-seo-hwng.steamcontent.com (cache6-seo-hwng.steamcontent.com)
+[2018-10-05 22:26:42] Downloading 5 chunks from depot 258551
+[2018-10-05 22:26:42] HTTP (CDN,19) - steam.apac.qtlglb.com (0.0.0.0:0 / 0.0.0.0:0, host: steam.apac.qtlglb.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 22:26:42] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache6-seo-hwng.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 22:26:42] HTTP (CDN,19) - steam.apac.qtlglb.com (0.0.0.0:0 / 0.0.0.0:0, host: steam.apac.qtlglb.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 22:26:43] AppID 258550 update changed : Running,
+[2018-10-05 22:26:43] AppID 258550 update changed : Running,Verifying,
+[2018-10-05 22:26:43] AppID 258550 update changed : Running,
+[2018-10-05 22:26:43] AppID 258550 update changed : Running,Committing,
+[2018-10-05 22:26:43] AppID 258550 file commit : 23 updated, 0 moved, 0 deleted
+[2018-10-05 22:26:43] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 22:26:43] AppID 258550 finished update, mounted depots (BuildID 3184412) : 258551 (1120197114211239492),258554 (8902438498606839362),
+[2018-10-05 22:26:43] AppID 258550 update changed : Running,
+[2018-10-05 22:26:43] AppID 258550 update changed : None
+[2018-10-05 22:26:43] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 22:26:43] AppID 258550 state changed : Fully Installed,
+[2018-10-05 22:26:43] AppID 258550 scheduler finished : removed from schedule
+[2018-10-05 22:26:43] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (103.66.31.74:80 / 103.66.31.74:80, host: cache6-seo-hwng.steamcontent.com): Closing connection
+[2018-10-05 22:26:43] HTTP (CDN,19) - steam.apac.qtlglb.com (157.185.184.155:80 / 157.185.184.155:80, host: steam.apac.qtlglb.com): Closing connection
+[2018-10-05 22:26:43] HTTP (CDN,19) - steam.apac.qtlglb.com (157.185.184.155:80 / 157.185.184.155:80, host: steam.apac.qtlglb.com): Closing connection
+
+
+[2018-10-05 23:25:56] Loaded 0 apps from install folder "C:\Users\Hosting04\Desktop\Server\steam\steamapps\appmanifest_*.acf".
+[2018-10-05 23:25:57] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-05 23:25:58] Start validating appID 258550
+[2018-10-05 23:25:58] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538749558, appDisableSecondsRemaining=0
+[2018-10-05 23:25:58] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 23:25:58] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 23:25:58] AppID 258550 update changed : Running,
+[2018-10-05 23:25:58] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-05 23:25:58] AppID 258550 update changed : Running,
+[2018-10-05 23:25:58] AppID 258550 update changed : Running,Validating,
+[2018-10-05 23:25:58] Validating files (all active,full) ...
+[2018-10-05 23:26:00] Got 100 content servers from directory
+[2018-10-05 23:26:23] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Assembly-CSharp.dll"
+[2018-10-05 23:26:23] Validation: SHA mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Console.dll"
+[2018-10-05 23:26:23] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Rcon.dll"
+[2018-10-05 23:26:24] File validation finished: 657 files (5616449419 bytes) total, 3 files (2399232 bytes) mismatched (25388 msec).
+[2018-10-05 23:26:24] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,
+[2018-10-05 23:26:24] AppID 258550 update changed : Running,
+[2018-10-05 23:26:24] AppID 258550 update changed : Running,Preallocating,
+[2018-10-05 23:26:24] AppID 258550 update changed : Running,
+[2018-10-05 23:26:24] AppID 258550 update started : download 0/649888, store 0/0, reuse 0/0, delta 0/0, stage 0/2399232
+[2018-10-05 23:26:24] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,Update Started,
+[2018-10-05 23:26:24] AppID 258550 update changed : Running,Downloading,
+[2018-10-05 23:26:24] AppID 258550 update changed : Running,Downloading,Staging,
+[2018-10-05 23:26:24] Got 18 download sources and 0 caching proxies via "/serverlist/8/20/" from valve44.steamcontent.com
+[2018-10-05 23:26:24] Created download interface of type 'CDN' (2) to host steam.apac.qtlglb.com (steam.apac.qtlglb.com)
+[2018-10-05 23:26:24] Created download interface of type 'CDN' (2) to host steam.apac.qtlglb.com (steam.apac.qtlglb.com)
+[2018-10-05 23:26:24] Created download interface of type 'SteamCache' (7) to host cache6-seo-hwng.steamcontent.com (cache6-seo-hwng.steamcontent.com)
+[2018-10-05 23:26:24] Downloading 5 chunks from depot 258551
+[2018-10-05 23:26:24] HTTP (CDN,19) - steam.apac.qtlglb.com (0.0.0.0:0 / 0.0.0.0:0, host: steam.apac.qtlglb.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 23:26:24] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache6-seo-hwng.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 23:26:24] HTTP (CDN,19) - steam.apac.qtlglb.com (0.0.0.0:0 / 0.0.0.0:0, host: steam.apac.qtlglb.com): AuthenticateDepotID (258551) - Success!
+[2018-10-05 23:26:25] AppID 258550 update changed : Running,
+[2018-10-05 23:26:25] AppID 258550 update changed : Running,Verifying,
+[2018-10-05 23:26:25] AppID 258550 update changed : Running,
+[2018-10-05 23:26:25] AppID 258550 update changed : Running,Committing,
+[2018-10-05 23:26:25] AppID 258550 file commit : 23 updated, 0 moved, 0 deleted
+[2018-10-05 23:26:25] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-05 23:26:25] AppID 258550 finished update, mounted depots (BuildID 3184412) : 258551 (1120197114211239492),258554 (8902438498606839362),
+[2018-10-05 23:26:25] AppID 258550 update changed : Running,
+[2018-10-05 23:26:25] AppID 258550 update changed : None
+[2018-10-05 23:26:25] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-05 23:26:25] AppID 258550 state changed : Fully Installed,
+[2018-10-05 23:26:25] AppID 258550 scheduler finished : removed from schedule
+[2018-10-05 23:26:25] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (103.66.31.74:80 / 103.66.31.74:80, host: cache6-seo-hwng.steamcontent.com): Closing connection
+[2018-10-05 23:26:25] HTTP (CDN,19) - steam.apac.qtlglb.com (157.185.168.99:80 / 157.185.168.99:80, host: steam.apac.qtlglb.com): Closing connection
+[2018-10-05 23:26:25] HTTP (CDN,19) - steam.apac.qtlglb.com (157.185.168.99:80 / 157.185.168.99:80, host: steam.apac.qtlglb.com): Closing connection
+
+
+[2018-10-06 12:59:38] Loaded 0 apps from install folder "C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\steam\steamapps\appmanifest_*.acf".
+[2018-10-06 12:59:40] Loaded 0 apps from install folder "c:\users\hosting04\source\repos\windowsformsapp1\windowsformsapp1\bin\debug\rustds\steamapps\appmanifest_*.acf".
+[2018-10-06 12:59:41] AppID 258550 state changed : Update Required,
+[2018-10-06 12:59:41] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=-1, appDisableSecondsRemaining=0
+[2018-10-06 12:59:41] AppID 258550 state changed : Update Required,Update Queued,
+[2018-10-06 12:59:41] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=-1, appDisableSecondsRemaining=0
+[2018-10-06 12:59:41] AppID 258550 state changed : Update Required,Update Queued,Update Running,
+[2018-10-06 12:59:41] AppID 258550 update changed : Running,
+[2018-10-06 12:59:41] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-06 12:59:41] AppID 258550 update changed : Running,
+[2018-10-06 12:59:41] AppID 258550 update changed : Running,Validating,
+[2018-10-06 12:59:41] Validating files (new target,full) ...
+[2018-10-06 12:59:41] File validation finished: 657 files (5616449419 bytes) total, 657 files (5616449419 bytes) mismatched (32 msec).
+[2018-10-06 12:59:41] AppID 258550 update changed : Running,
+[2018-10-06 12:59:41] AppID 258550 update changed : Running,Preallocating,
+[2018-10-06 12:59:42] Got 100 content servers from directory
+[2018-10-06 12:59:53] AppID 258550 update changed : Running,
+[2018-10-06 12:59:53] AppID 258550 update started : download 0/2339901632, store 0/0, reuse 0/0, delta 0/0, stage 0/5616449419
+[2018-10-06 12:59:53] AppID 258550 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2018-10-06 12:59:53] AppID 258550 update changed : Running,Downloading,
+[2018-10-06 12:59:53] AppID 258550 update changed : Running,Downloading,Staging,
+[2018-10-06 12:59:53] Got 17 download sources and 0 caching proxies via "/serverlist/8/20/" from valve44.steamcontent.com
+[2018-10-06 12:59:53] Created download interface of type 'SteamCache' (7) to host cache6-seo-hwng.steamcontent.com (cache6-seo-hwng.steamcontent.com)
+[2018-10-06 12:59:53] Created download interface of type 'CS' (1) to host valve43.steamcontent.com (valve43.steamcontent.com)
+[2018-10-06 12:59:53] Created download interface of type 'CS' (1) to host valve43.steamcontent.com (valve43.steamcontent.com)
+[2018-10-06 12:59:53] Downloading 343 chunks from depot 258551
+[2018-10-06 12:59:54] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache6-seo-hwng.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-06 12:59:54] HTTP (CS,43) - valve43.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve43.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-06 12:59:54] HTTP (CS,43) - valve43.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve43.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-06 13:00:06] Increasing target number of download connections to 4 (rate was 0.000, now 25.338)
+[2018-10-06 13:00:06] Created download interface of type 'CS' (1) to host valve39.steamcontent.com (valve39.steamcontent.com)
+[2018-10-06 13:00:06] Downloading 5835 chunks from depot 258554
+[2018-10-06 13:00:07] HTTP (CS,43) - valve43.steamcontent.com (103.66.31.72:80 / 103.66.31.72:80, host: valve43.steamcontent.com): AuthenticateDepotID (258554) - Success!
+[2018-10-06 13:00:07] HTTP (CS,43) - valve43.steamcontent.com (103.66.31.72:80 / 103.66.31.72:80, host: valve43.steamcontent.com): AuthenticateDepotID (258554) - Success!
+[2018-10-06 13:00:07] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (103.66.31.74:80 / 103.66.31.74:80, host: cache6-seo-hwng.steamcontent.com): AuthenticateDepotID (258554) - Success!
+[2018-10-06 13:00:07] HTTP (CS,39) - valve39.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve39.steamcontent.com): AuthenticateDepotID (258554) - Success!
+[2018-10-06 13:00:18] Increasing target number of download connections to 5 (rate was 25.338, now 44.764)
+[2018-10-06 13:00:18] Created download interface of type 'CS' (1) to host valve39.steamcontent.com (valve39.steamcontent.com)
+[2018-10-06 13:00:18] HTTP (CS,39) - valve39.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve39.steamcontent.com): AuthenticateDepotID (258554) - Success!
+[2018-10-06 13:01:07] Current download rate: 38.676 Mbps
+[2018-10-06 13:02:08] Current download rate: 43.375 Mbps
+[2018-10-06 13:03:01] Increasing target number of download connections to 6 (rate was 44.764, now 55.670)
+[2018-10-06 13:03:01] Created download interface of type 'CS' (1) to host valve40.steamcontent.com (valve40.steamcontent.com)
+[2018-10-06 13:03:01] HTTP (CS,40) - valve40.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve40.steamcontent.com): AuthenticateDepotID (258554) - Success!
+[2018-10-06 13:03:13] Current download rate: 46.402 Mbps
+[2018-10-06 13:04:14] Current download rate: 40.954 Mbps
+[2018-10-06 13:05:15] Current download rate: 41.418 Mbps
+[2018-10-06 13:06:16] Current download rate: 31.896 Mbps
+[2018-10-06 13:07:16] Current download rate: 35.919 Mbps
+[2018-10-06 13:07:30] AppID 258550 update changed : Running,
+[2018-10-06 13:07:30] AppID 258550 update changed : Running,Committing,
+[2018-10-06 13:07:30] AppID 258550 file commit : 677 updated, 0 moved, 0 deleted
+[2018-10-06 13:07:31] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-06 13:07:31] AppID 258550 finished update, mounted depots (BuildID 3184412) : 258551 (1120197114211239492),258554 (8902438498606839362),
+[2018-10-06 13:07:31] AppID 258550 update changed : Running,
+[2018-10-06 13:07:31] AppID 258550 update changed : None
+[2018-10-06 13:07:31] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-06 13:07:31] AppID 258550 state changed : Fully Installed,
+[2018-10-06 13:07:31] AppID 258550 scheduler finished : removed from schedule
+[2018-10-06 13:07:31] HTTP (CS,40) - valve40.steamcontent.com (103.66.31.69:80 / 103.66.31.69:80, host: valve40.steamcontent.com): Closing connection
+[2018-10-06 13:07:31] HTTP (CS,39) - valve39.steamcontent.com (103.66.31.68:80 / 103.66.31.68:80, host: valve39.steamcontent.com): Closing connection
+[2018-10-06 13:07:31] HTTP (CS,39) - valve39.steamcontent.com (103.66.31.68:80 / 103.66.31.68:80, host: valve39.steamcontent.com): Closing connection
+[2018-10-06 13:07:31] HTTP (CS,43) - valve43.steamcontent.com (103.66.31.72:80 / 103.66.31.72:80, host: valve43.steamcontent.com): Closing connection
+[2018-10-06 13:07:31] HTTP (CS,43) - valve43.steamcontent.com (103.66.31.72:80 / 103.66.31.72:80, host: valve43.steamcontent.com): Closing connection
+[2018-10-06 13:07:31] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (103.66.31.74:80 / 103.66.31.74:80, host: cache6-seo-hwng.steamcontent.com): Closing connection
+
+
+[2018-10-06 13:09:45] Loaded 0 apps from install folder "C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\steam\steamapps\appmanifest_*.acf".
+[2018-10-06 13:09:51] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-06 13:09:52] Start validating appID 258550
+[2018-10-06 13:09:52] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538798992, appDisableSecondsRemaining=0
+[2018-10-06 13:09:52] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-06 13:09:52] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-06 13:09:52] AppID 258550 update changed : Running,
+[2018-10-06 13:09:52] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-06 13:09:52] AppID 258550 update changed : Running,
+[2018-10-06 13:09:52] AppID 258550 update changed : Running,Validating,
+[2018-10-06 13:09:52] Validating files (all active,full) ...
+[2018-10-06 13:10:19] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Assembly-CSharp.dll"
+[2018-10-06 13:10:19] Validation: SHA mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Console.dll"
+[2018-10-06 13:10:19] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Rcon.dll"
+[2018-10-06 13:10:20] File validation finished: 657 files (5616449419 bytes) total, 3 files (2399232 bytes) mismatched (28107 msec).
+[2018-10-06 13:10:20] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,
+[2018-10-06 13:10:20] AppID 258550 update changed : Running,
+[2018-10-06 13:10:20] AppID 258550 update changed : Running,Preallocating,
+[2018-10-06 13:10:20] AppID 258550 update changed : Running,
+[2018-10-06 13:10:20] AppID 258550 update started : download 0/649888, store 0/0, reuse 0/0, delta 0/0, stage 0/2399232
+[2018-10-06 13:10:20] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,Update Started,
+[2018-10-06 13:10:20] AppID 258550 update changed : Running,Downloading,
+[2018-10-06 13:10:20] AppID 258550 update changed : Running,Downloading,Staging,
+[2018-10-06 13:10:21] Got 18 download sources and 0 caching proxies via "/serverlist/8/20/" from valve44.steamcontent.com
+[2018-10-06 13:10:21] Created download interface of type 'CDN' (2) to host steam.apac.qtlglb.com (steam.apac.qtlglb.com)
+[2018-10-06 13:10:21] Created download interface of type 'CDN' (2) to host steam.apac.qtlglb.com (steam.apac.qtlglb.com)
+[2018-10-06 13:10:21] Created download interface of type 'CS' (1) to host valve40.steamcontent.com (valve40.steamcontent.com)
+[2018-10-06 13:10:21] Downloading 5 chunks from depot 258551
+[2018-10-06 13:10:21] HTTP (CDN,19) - steam.apac.qtlglb.com (0.0.0.0:0 / 0.0.0.0:0, host: steam.apac.qtlglb.com): AuthenticateDepotID (258551) - Success!
+[2018-10-06 13:10:21] HTTP (CS,40) - valve40.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve40.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-06 13:10:21] HTTP (CDN,19) - steam.apac.qtlglb.com (0.0.0.0:0 / 0.0.0.0:0, host: steam.apac.qtlglb.com): AuthenticateDepotID (258551) - Success!
+[2018-10-06 13:10:22] AppID 258550 update changed : Running,
+[2018-10-06 13:10:22] AppID 258550 update changed : Running,Verifying,
+[2018-10-06 13:10:22] AppID 258550 update changed : Running,
+[2018-10-06 13:10:22] AppID 258550 update changed : Running,Committing,
+[2018-10-06 13:10:22] AppID 258550 file commit : 23 updated, 0 moved, 0 deleted
+[2018-10-06 13:10:22] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-06 13:10:22] AppID 258550 finished update, mounted depots (BuildID 3184412) : 258551 (1120197114211239492),258554 (8902438498606839362),
+[2018-10-06 13:10:22] AppID 258550 update changed : Running,
+[2018-10-06 13:10:22] AppID 258550 update changed : None
+[2018-10-06 13:10:22] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-06 13:10:22] AppID 258550 state changed : Fully Installed,
+[2018-10-06 13:10:22] AppID 258550 scheduler finished : removed from schedule
+[2018-10-06 13:10:22] HTTP (CS,40) - valve40.steamcontent.com (103.66.31.69:80 / 103.66.31.69:80, host: valve40.steamcontent.com): Closing connection
+[2018-10-06 13:10:22] HTTP (CDN,19) - steam.apac.qtlglb.com (163.171.233.25:80 / 163.171.233.25:80, host: steam.apac.qtlglb.com): Closing connection
+[2018-10-06 13:10:22] HTTP (CDN,19) - steam.apac.qtlglb.com (163.171.233.25:80 / 163.171.233.25:80, host: steam.apac.qtlglb.com): Closing connection
+
+
+[2018-10-06 13:19:56] Loaded 0 apps from install folder "C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\steam\steamapps\appmanifest_*.acf".
+[2018-10-06 13:20:02] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-06 13:20:03] Start validating appID 258550
+[2018-10-06 13:20:03] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538799603, appDisableSecondsRemaining=0
+[2018-10-06 13:20:03] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-06 13:20:03] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-06 13:20:03] AppID 258550 update changed : Running,
+[2018-10-06 13:20:03] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-06 13:20:03] AppID 258550 update changed : Running,
+[2018-10-06 13:20:03] AppID 258550 update changed : Running,Validating,
+[2018-10-06 13:20:03] Validating files (all active,full) ...
+[2018-10-06 13:20:32] File validation finished: 657 files (5616449419 bytes) total, 0 files (0 bytes) mismatched (28337 msec).
+[2018-10-06 13:20:32] AppID 258550 update changed : Running,
+[2018-10-06 13:20:32] AppID 258550 update changed : None
+[2018-10-06 13:20:32] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-06 13:20:32] AppID 258550 state changed : Fully Installed,
+[2018-10-06 13:20:32] AppID 258550 scheduler finished : removed from schedule
+
+
+[2018-10-06 13:25:02] Loaded 0 apps from install folder "C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\steam\steamapps\appmanifest_*.acf".
+[2018-10-06 13:25:04] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-06 13:25:05] Start validating appID 258550
+[2018-10-06 13:25:05] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538799905, appDisableSecondsRemaining=0
+[2018-10-06 13:25:05] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-06 13:25:05] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-06 13:25:05] AppID 258550 update changed : Running,
+[2018-10-06 13:25:05] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-06 13:25:05] AppID 258550 update changed : Running,
+[2018-10-06 13:25:05] AppID 258550 update changed : Running,Validating,
+[2018-10-06 13:25:05] Validating files (all active,full) ...
+[2018-10-06 13:25:06] Got 100 content servers from directory
+[2018-10-06 13:25:32] File validation finished: 657 files (5616449419 bytes) total, 0 files (0 bytes) mismatched (27430 msec).
+[2018-10-06 13:25:32] AppID 258550 update changed : Running,
+[2018-10-06 13:25:32] AppID 258550 update changed : None
+[2018-10-06 13:25:32] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-06 13:25:32] AppID 258550 state changed : Fully Installed,
+[2018-10-06 13:25:32] AppID 258550 scheduler finished : removed from schedule
+
+
+[2018-10-06 18:09:13] Loaded 0 apps from install folder "C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\steam\steamapps\appmanifest_*.acf".
+[2018-10-06 18:09:14] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-06 18:09:16] Start validating appID 258550
+[2018-10-06 18:09:16] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538816956, appDisableSecondsRemaining=0
+[2018-10-06 18:09:16] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-06 18:09:16] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-06 18:09:16] AppID 258550 update changed : Running,
+[2018-10-06 18:09:16] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-06 18:09:16] AppID 258550 update changed : Running,
+[2018-10-06 18:09:16] AppID 258550 update changed : Running,Validating,
+[2018-10-06 18:09:16] Validating files (all active,full) ...
+[2018-10-06 18:09:17] Got 100 content servers from directory
+[2018-10-06 18:09:40] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Assembly-CSharp.dll"
+[2018-10-06 18:09:40] Validation: SHA mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Console.dll"
+[2018-10-06 18:09:40] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Rcon.dll"
+[2018-10-06 18:09:40] File validation finished: 657 files (5616449419 bytes) total, 3 files (2399232 bytes) mismatched (24018 msec).
+[2018-10-06 18:09:40] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,
+[2018-10-06 18:09:40] AppID 258550 update changed : Running,
+[2018-10-06 18:09:40] AppID 258550 update changed : Running,Preallocating,
+[2018-10-06 18:09:40] AppID 258550 update changed : Running,
+[2018-10-06 18:09:40] AppID 258550 update started : download 0/649888, store 0/0, reuse 0/0, delta 0/0, stage 0/2399232
+[2018-10-06 18:09:40] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,Update Started,
+[2018-10-06 18:09:40] AppID 258550 update changed : Running,Downloading,
+[2018-10-06 18:09:40] AppID 258550 update changed : Running,Downloading,Staging,
+[2018-10-06 18:09:41] Got 15 download sources and 0 caching proxies via "/serverlist/8/20/" from valve44.steamcontent.com
+[2018-10-06 18:09:41] Created download interface of type 'CDN' (2) to host steam.apac.qtlglb.com (steam.apac.qtlglb.com)
+[2018-10-06 18:09:41] Created download interface of type 'CDN' (2) to host steam.apac.qtlglb.com (steam.apac.qtlglb.com)
+[2018-10-06 18:09:41] Created download interface of type 'CS' (1) to host valve40.steamcontent.com (valve40.steamcontent.com)
+[2018-10-06 18:09:41] Downloading 5 chunks from depot 258551
+[2018-10-06 18:09:41] HTTP (CDN,19) - steam.apac.qtlglb.com (0.0.0.0:0 / 0.0.0.0:0, host: steam.apac.qtlglb.com): AuthenticateDepotID (258551) - Success!
+[2018-10-06 18:09:41] HTTP (CS,40) - valve40.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve40.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-06 18:09:41] HTTP (CDN,19) - steam.apac.qtlglb.com (0.0.0.0:0 / 0.0.0.0:0, host: steam.apac.qtlglb.com): AuthenticateDepotID (258551) - Success!
+[2018-10-06 18:09:42] AppID 258550 update changed : Running,
+[2018-10-06 18:09:42] AppID 258550 update changed : Running,Verifying,
+[2018-10-06 18:09:42] AppID 258550 update changed : Running,
+[2018-10-06 18:09:42] AppID 258550 update changed : Running,Committing,
+[2018-10-06 18:09:42] AppID 258550 file commit : 23 updated, 0 moved, 0 deleted
+[2018-10-06 18:09:42] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-06 18:09:42] AppID 258550 finished update, mounted depots (BuildID 3184412) : 258551 (1120197114211239492),258554 (8902438498606839362),
+[2018-10-06 18:09:42] AppID 258550 update changed : Running,
+[2018-10-06 18:09:42] AppID 258550 update changed : None
+[2018-10-06 18:09:42] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-06 18:09:42] AppID 258550 state changed : Fully Installed,
+[2018-10-06 18:09:42] AppID 258550 scheduler finished : removed from schedule
+[2018-10-06 18:09:42] HTTP (CS,40) - valve40.steamcontent.com (103.66.31.69:80 / 103.66.31.69:80, host: valve40.steamcontent.com): Closing connection
+[2018-10-06 18:09:42] HTTP (CDN,19) - steam.apac.qtlglb.com (157.185.168.122:80 / 157.185.168.122:80, host: steam.apac.qtlglb.com): Closing connection
+[2018-10-06 18:09:42] HTTP (CDN,19) - steam.apac.qtlglb.com (157.185.168.122:80 / 157.185.168.122:80, host: steam.apac.qtlglb.com): Closing connection
+
+
+[2018-10-07 01:02:19] Loaded 0 apps from install folder "C:\Users\Hosting04\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\steam\steamapps\appmanifest_*.acf".
+[2018-10-07 01:02:25] Loaded 1 apps from install folder "c:\users\hosting04\desktop\server\rustds\steamapps\appmanifest_*.acf".
+[2018-10-07 01:02:26] Start validating appID 258550
+[2018-10-07 01:02:26] AppID 258550 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1538841746, appDisableSecondsRemaining=0
+[2018-10-07 01:02:26] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-07 01:02:26] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-07 01:02:26] AppID 258550 update changed : Running,
+[2018-10-07 01:02:26] AppID 258550 update changed : Running,Reconfiguring,
+[2018-10-07 01:02:26] AppID 258550 update changed : Running,
+[2018-10-07 01:02:26] AppID 258550 update changed : Running,Validating,
+[2018-10-07 01:02:26] Validating files (all active,full) ...
+[2018-10-07 01:02:47] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Assembly-CSharp.dll"
+[2018-10-07 01:02:47] Validation: SHA mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Console.dll"
+[2018-10-07 01:02:47] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\Facepunch.Rcon.dll"
+[2018-10-07 01:02:47] Validation: SHA mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\NewAssembly.dll"
+[2018-10-07 01:02:47] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\System.Configuration.Install.dll"
+[2018-10-07 01:02:48] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\System.Data.dll"
+[2018-10-07 01:02:48] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\System.Drawing.dll"
+[2018-10-07 01:02:48] Validation: size mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\System.Runtime.Serialization.dll"
+[2018-10-07 01:02:48] Validation: SHA mismatch "c:\users\hosting04\desktop\server\rustds\RustDedicated_Data\Managed\System.Transactions.dll"
+[2018-10-07 01:02:48] File validation finished: 657 files (5616449419 bytes) total, 9 files (5967872 bytes) mismatched (22188 msec).
+[2018-10-07 01:02:48] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,
+[2018-10-07 01:02:48] AppID 258550 update changed : Running,
+[2018-10-07 01:02:48] AppID 258550 update changed : Running,Preallocating,
+[2018-10-07 01:02:48] AppID 258550 update changed : Running,
+[2018-10-07 01:02:48] AppID 258550 update started : download 0/1601968, store 0/0, reuse 0/0, delta 0/0, stage 0/5967872
+[2018-10-07 01:02:48] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Files Missing,Update Running,Update Started,
+[2018-10-07 01:02:48] AppID 258550 update changed : Running,Downloading,
+[2018-10-07 01:02:48] AppID 258550 update changed : Running,Downloading,Staging,
+[2018-10-07 01:02:48] Got 18 download sources and 0 caching proxies via "/serverlist/8/20/" from valve44.steamcontent.com
+[2018-10-07 01:02:48] Created download interface of type 'SteamCache' (7) to host cache6-seo-hwng.steamcontent.com (cache6-seo-hwng.steamcontent.com)
+[2018-10-07 01:02:48] Created download interface of type 'CS' (1) to host valve42.steamcontent.com (valve42.steamcontent.com)
+[2018-10-07 01:02:48] Created download interface of type 'CS' (1) to host valve42.steamcontent.com (valve42.steamcontent.com)
+[2018-10-07 01:02:48] Downloading 12 chunks from depot 258551
+[2018-10-07 01:02:49] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache6-seo-hwng.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-07 01:02:49] HTTP (CS,42) - valve42.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve42.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-07 01:02:49] HTTP (CS,42) - valve42.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve42.steamcontent.com): AuthenticateDepotID (258551) - Success!
+[2018-10-07 01:02:50] AppID 258550 update changed : Running,
+[2018-10-07 01:02:50] AppID 258550 update changed : Running,Verifying,
+[2018-10-07 01:02:50] AppID 258550 update changed : Running,
+[2018-10-07 01:02:50] AppID 258550 update changed : Running,Committing,
+[2018-10-07 01:02:50] AppID 258550 file commit : 29 updated, 0 moved, 0 deleted
+[2018-10-07 01:02:50] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2018-10-07 01:02:50] AppID 258550 finished update, mounted depots (BuildID 3184412) : 258551 (1120197114211239492),258554 (8902438498606839362),
+[2018-10-07 01:02:50] AppID 258550 update changed : Running,
+[2018-10-07 01:02:50] AppID 258550 update changed : None
+[2018-10-07 01:02:50] AppID 258550 state changed : Fully Installed,Update Queued,
+[2018-10-07 01:02:50] AppID 258550 state changed : Fully Installed,
+[2018-10-07 01:02:50] AppID 258550 scheduler finished : removed from schedule
+[2018-10-07 01:02:50] HTTP (CS,42) - valve42.steamcontent.com (103.66.31.71:80 / 103.66.31.71:80, host: valve42.steamcontent.com): Closing connection
+[2018-10-07 01:02:50] HTTP (CS,42) - valve42.steamcontent.com (103.66.31.71:80 / 103.66.31.71:80, host: valve42.steamcontent.com): Closing connection
+[2018-10-07 01:02:50] HTTP (SteamCache,6) - cache6-seo-hwng.steamcontent.com (103.66.31.74:80 / 103.66.31.74:80, host: cache6-seo-hwng.steamcontent.com): Closing connection
