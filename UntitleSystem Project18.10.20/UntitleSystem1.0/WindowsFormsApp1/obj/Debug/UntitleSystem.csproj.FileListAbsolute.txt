@@ -41,3 +41,18 @@ D:\Projects\RustServer\ServerProject\UntitleSystem Project 18.10.20\UntitleSyste
 D:\Projects\RustServer\ServerProject\UntitleSystem Project 18.10.20\UntitleSystem\WindowsFormsApp1\obj\Debug\UntitleSystem.csproj.CopyComplete
 D:\Projects\RustServer\ServerProject\UntitleSystem Project 18.10.20\UntitleSystem\WindowsFormsApp1\obj\Debug\UntitleSystem.exe
 D:\Projects\RustServer\ServerProject\UntitleSystem Project 18.10.20\UntitleSystem\WindowsFormsApp1\obj\Debug\UntitleSystem.pdb
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\bin\Debug\UntitleSystem.exe.config
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\bin\Debug\UntitleSystem.exe
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\bin\Debug\UntitleSystem.pdb
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\obj\Debug\UntitleSystem.csprojAssemblyReference.cache
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\obj\Debug\UntitleSystem.MainForm.resources
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\obj\Debug\UntitleSystem.Properties.Resources.resources
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\obj\Debug\UntitleSystem.csproj.GenerateResource.cache
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\obj\Debug\UntitleSystem.csproj.CoreCompileInputs.cache
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\obj\Debug\UntitleSystem.csproj.CopyComplete
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\obj\Debug\UntitleSystem.exe
+C:\noname\Projects\GitHub\UntitledSystem\UntitledSystem\UntitleSystem Project18.10.20\UntitleSystem1.0\WindowsFormsApp1\obj\Debug\UntitleSystem.pdb
